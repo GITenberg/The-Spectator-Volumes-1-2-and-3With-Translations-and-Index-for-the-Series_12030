@@ -1,0 +1,45 @@
+_repo: The-Spectator-Volumes-1-2-and-3With-Translations-and-Index-for-the-Series_12030
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Addison, Joseph
+    alias: Bickerstaff, Isaac
+    birthdate: &id001 1672
+    deathdate: 1719
+    gutenberg_agent_id: '1024'
+    url: http://www.gutenberg.org/2009/agents/1024
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Addison
+  - agent_name: Steele, Richard, Sir
+    aliases:
+    - Edgar, John, Sir
+    - Bickerstaff, Isaac
+    - Steele, R. (Richard), Sir
+    birthdate: *id001
+    deathdate: 1729
+    gutenberg_agent_id: '984'
+    url: http://www.gutenberg.org/2009/agents/984
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Steele
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12030'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English essays -- 18th century -- Periodicals'
+- GITenberg
+title: 'The Spectator, Volumes 1, 2 and 3
+
+  With Translations and Index for the Series'
+url: http://www.gutenberg.org/ebooks/12030
