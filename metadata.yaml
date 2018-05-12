@@ -1,10 +1,13 @@
 _repo: The-Spectator-Volumes-1-2-and-3With-Translations-and-Index-for-the-Series_12030
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Addison, Joseph
     alias: Bickerstaff, Isaac
-    birthdate: &id001 1672
+    birthdate: 1672
     deathdate: 1719
     gutenberg_agent_id: '1024'
     url: http://www.gutenberg.org/2009/agents/1024
@@ -14,7 +17,7 @@ creator:
     - Edgar, John, Sir
     - Bickerstaff, Isaac
     - Steele, R. (Richard), Sir
-    birthdate: *id001
+    birthdate: 1672
     deathdate: 1729
     gutenberg_agent_id: '984'
     url: http://www.gutenberg.org/2009/agents/984
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1355
     wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12030#The-Spectator-Volumes-1-2-and-3With-Translations-and-Index-for-the-Series
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
